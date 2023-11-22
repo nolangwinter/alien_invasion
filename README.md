@@ -40,4 +40,4 @@ Gained more experience with Object Oriented programming, expierence with pygame 
 
 Nolan Winter - nolangwinter@gmail.com
 
-Project Link: [https://github.com/nolangwinter/ThreeDo](https://github.com/nolangwinter/alien_invasion)
+Project Link: [https://github.com/nolangwinter/alien_invasion](https://github.com/nolangwinter/alien_invasion)
